@@ -16,6 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 #output
+![Screenshot 2023-07-01 204615](https://github.com/kirankumar2001/farmers_fresh_zone-cloneUi/assets/110237758/eee3bd73-d6ce-46d4-8aa4-463f815afefe)
 ![Screenshot 2023-07-01 204615](https://github.com/kirankumar2001/farmers_fresh_zone-cloneUi/assets/110237758/cc720512-9bd8-4c04-aca8-857
 ![Screenshot 2023-07-01 204759](https://github.com/kirankumar2001/farmers_fresh_zone-cloneUi/assets/110237758/bd20a78d-21fc-46c4-acb5-12100700e791)
 3b4b4
